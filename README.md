@@ -14,3 +14,5 @@ Po izpolnitvi projekta bi rad dosegel naslednje:
 ## Posodobitve
         - 2.) 8.12.2025 17:30
         - 1.) 7.12.2025 20:00
+## Povezave
+- [Spletna Stran](https://stefancic-tomaz.github.io/Linktree/)
